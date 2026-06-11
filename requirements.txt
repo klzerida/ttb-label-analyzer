@@ -1,0 +1,3 @@
+gradio   # Web UI framework for building the interactive app frontend.
+openai   # OpenAI-style Python client used to call HF router / LLM APIs.
+Pillow   # Python Imaging Library (PIL fork) for image loading and preprocessing.
